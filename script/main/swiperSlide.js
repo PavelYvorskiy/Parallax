@@ -1,7 +1,7 @@
 const swiper = new Swiper(".mySwiper", {
    loop: true,
    autoplay: {
-       delay: 0,
+       delay: 1,
    },
    speed:8000,
    breakpoints: {
